@@ -1,0 +1,11 @@
+{
+  "name": "xx_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
